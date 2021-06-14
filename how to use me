@@ -1,1 +1,4 @@
-git clone
+git clone https://github.com/dura51/letmeinstall.git
+cd letmeinstall
+chmod +x install.sh
+./install.sh your operating system your software that you want to install it | examble ./install.sh kalilinux figlet
